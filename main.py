@@ -2,7 +2,7 @@ import random
 
 chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890@#$%&*_'
 num_pass = int(input('Number of passwords: '))
-len_pass = int(input('Lenght of password: '))
+len_pass = int(input('Length of password: '))
 
 for pss in range(num_pass):
     password = ''

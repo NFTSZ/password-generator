@@ -12,19 +12,21 @@ This is a simple password generator GUI application built using the PySimpleGUI 
 1. Install Python from the official website: https://www.python.org/downloads/
 2. Install the PySimpleGUI library using pip:
 
-pip install PySimpleGUI
+       pip install PySimpleGUI
 
 ## Usage
 
 1. Open a terminal or command prompt.
 2. Navigate to the directory containing the script.
 3. Run the script:
-    python main.py or python3 main.py
-4. The main window will appear with fields to specify the number of passwords to generate and their length.
-5. Click the "Show Passwords" button.
-6. A new window will appear displaying the generated passwords.
-7. Close the password display window by clicking the "OK" button.
-8. Close the main window to exit the application.
+
+       python main.py or python3 main.py
+ 
+5. The main window will appear with fields to specify the number of passwords to generate and their length.
+6. Click the "Show Passwords" button.
+7. A new window will appear displaying the generated passwords.
+8. Close the password display window by clicking the "OK" button.
+9. Close the main window to exit the application.
 
 ## Code Explanation
 
